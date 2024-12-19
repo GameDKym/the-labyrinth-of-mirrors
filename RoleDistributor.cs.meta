@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64f94549c5b66854fb9b4d15c69c3c92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roleSO: {fileID: 11400000, guid: 5a0fbd027fda1714a9feb84278523c45, type: 2}
+  - characterSO: {fileID: 11400000, guid: 8c985f7dd895639468e61958fad06e8a, type: 2}
+  - playerSO: {fileID: 11400000, guid: 60e0579b4451b6e43be2bbb4feb42128, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
