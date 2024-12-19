@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28c054cdb201c1443afd92850997e904, type: 3}
+  m_Name: "\uC544\uB974\uCE74\uB098"
+  m_EditorClassIdentifier: 
+  characterName: "\uC544\uB974\uCE74\uB098"
+  baseAttack: 1
+  baseHealth: 8
+  baseDefense: 0
+  characterSprite: {fileID: 21300000, guid: b3723c4cc2fe2e84e8dae83b5de95c5e, type: 3}
+  abilityName: "\uCE74\uB4DC\uB9C8\uC220"
+  description: "\uB0A8\uB4E4\uC758 \uB208\uC744 \uC18D\uC5EC \uD134 \uC2DC\uC791
+    \uC2DC 1\uC7A5 \uCD94\uAC00 \uB4DC\uB85C\uC6B0."
+  abilityEffect: 7

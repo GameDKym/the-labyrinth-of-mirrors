@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c3eff6e99ffe44ea8329d17e6ad320, type: 3}
+  m_Name: TeamLeaderCard
+  m_EditorClassIdentifier: 
+  roleName: "\uACF5\uB300\uC7A5"
+  roleFrontImage: {fileID: 21300000, guid: f8087274659b8624a9ee8b7624c11f87, type: 3}
+  roleBackImage: {fileID: 21300000, guid: 76c8b4eb8f3d2474687de112111ac46e, type: 3}
+  description: "\uACF5\uB300\uC7A5\uC740 \uD300\uC744 \uC774\uB04C\uBA70 \uC2B9\uB9AC\uB97C
+    \uD5A5\uD574 \uB098\uC544\uAC11\uB2C8\uB2E4. \uC2B9\uB9AC \uC870\uAC74: \uBD80\uB300\uC7A5\uACFC
+    \uD568\uAED8 \uC0DD\uC874\uD558\uACE0, \uC554\uD751\uAD50\uB2E8\uACFC \uB3C4\uD50C\uAC31\uC5B4\uB97C
+    \uC81C\uAC70\uD558\uC138\uC694."
